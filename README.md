@@ -1,8 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi, I'm Blake 👋</h1>
 
 ###
 
-<p align="left">Welcome to my GitHub! My name is Blake and I am a recent software engineering graduate looking to put my technical skills and passion for software development to use. I have a strong foundation in technologies such as HTML, CSS, JavaScript, React.js, Node.js, Express.js and working with REST APIs. Proficient in building scalable and efficient applications and websites as well as managing data with MongoDB, and maintaining software projects using GitHub and Git.<br><br>✨ Started Coding: 2023<br>📚 Currently Learning: Typescript<br>🎯 Learning Next: Angular, Vue</p>
+<p align="left">I'm a software developer passionate about building scalable, efficient, and creative web apps. I specialize in HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB, with experience working with REST APIs and managing projects using Git and GitHub.
+
+Here, you'll find projects that highlight my skills in frontend and backend development. I'm always exploring new technologies and looking for opportunities to collaborate and grow as a developer.<br><br>✨ Started Coding: 2023<br>📚 Currently Learning: Typescript<br>🎯 Learning Next: Angular, Vue</p>
 
 ###
 
