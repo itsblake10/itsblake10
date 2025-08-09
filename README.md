@@ -4,7 +4,7 @@
 
 <p align="left">I'm a software developer passionate about building scalable, efficient, and creative web apps. I specialize in HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB, with experience working with REST APIs and managing projects using Git and GitHub.
 
-Here, you'll find projects that highlight my skills in frontend and backend development. I'm always exploring new technologies and looking for opportunities to collaborate and grow as a developer.<br><br>✨ Started Coding: 2023<br>📚 Currently Learning: Typescript<br>🎯 Learning Next: Angular, Vue</p>
+Here, you'll find projects that highlight my skills in frontend and backend development. I'm always exploring new technologies and looking for opportunities to collaborate and grow as a developer.<br><br>✨ Started Coding: 2023<br>📚 Currently Learning: NextJS, Typescript<br>🎯 Learning Next: Angular</p>
 
 ###
 
